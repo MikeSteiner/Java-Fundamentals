@@ -16,7 +16,7 @@ public class P03_AssignVariables {
         long myLong = 919827112351L;
         byte myByte = 127;
         char myChar = 'c';
-		//github comment!!!
+		//github comment!!! onlien changed
 
         System.out.println(myBoolena);
         System.out.println(myString);
